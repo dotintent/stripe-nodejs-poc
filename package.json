@@ -1,0 +1,11 @@
+{
+  "name": "stripe-demo",
+  "version": "1.0.0",
+  "description": "Stripe demo",
+  "main": "index.js",
+  "author": ".intent",
+  "license": "MIT",
+  "dependencies": {
+    "stripe": "^8.96.0"
+  }
+}
